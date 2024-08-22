@@ -1,0 +1,5 @@
+4
+weapon			640 zombie_base/wpnhud/crosshair_all3	0	0	170	45
+weapon_s		640 zombie_base/wpnhud/crosshair_all3	0	0	170	45
+ammo			640 zombie_base/wpnhud/crosshair_all3	170	0	24	24
+crosshair		640 zombie_base/wpnhud/crosshair_all1	256	256	256	256

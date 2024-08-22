@@ -1,0 +1,5 @@
+4
+weapon			640 zombie_base/wpnhud/m1887craft	0	0	170	45
+weapon_s		640 zombie_base/wpnhud/m1887craft	0	0	170	45
+ammo			640 zombie_base/wpnhud/m1887craft_ammo	0	0	24	24
+crosshair		640 zombie_base/wpnhud/shotgun_crosshair	0	0	64	64

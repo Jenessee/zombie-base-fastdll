@@ -1,0 +1,4 @@
+3
+weapon				640 zombie_base/wpnhud/divinespear	0	0	170	45
+weapon_s			640 zombie_base/wpnhud/divinespear	0	0	170	45
+ammo				640 zombie_base/wpnhud/divinespear_ammo	0	0	24	24

@@ -1,0 +1,3 @@
+2
+weapon			640 zombie_base/wpnhud/knife_balrog9		0 	0 	170 	45
+weapon_s			640 zombie_base/wpnhud/knife_balrog9		0 	0 	170 	45
